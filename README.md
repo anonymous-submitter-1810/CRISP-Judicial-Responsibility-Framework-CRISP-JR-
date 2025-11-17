@@ -11,6 +11,3 @@ This repository contains the visual framework and supplementary materials for th
 
 ## Code Availability
 The implementation code for the CRISP-JR framework will be made available upon paper acceptance to ensure review integrity and proper attribution.
-
-## Contact
-For questions about the framework or code access, please contact [email].
